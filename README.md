@@ -2,7 +2,8 @@
 lab 1 
 
 Asuult 1: 
-a) android:layout_marginBottom="8dp", b) android:layout_marginTop="8dp"
+a) android:layout_marginBottom="8dp", 
+b) android:layout_marginTop="8dp"
 
 Asuult 2: 
 a) app:layout_constraintLeft_toLeftOf="parent"
